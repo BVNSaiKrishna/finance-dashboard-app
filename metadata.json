@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Finance",
+  "description": "Sleek, polished personal finance dashboard featuring budget tracking, transaction logs, and Google Sheet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
